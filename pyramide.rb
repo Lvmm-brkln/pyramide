@@ -5,7 +5,7 @@ n = 1
 
 while n <= x
     if n<= x
-    (n == 1)
+    
        puts ("#" * n).rjust(x)
     else
         break
